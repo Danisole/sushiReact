@@ -3,7 +3,7 @@ import React from 'react'
 
 const Main = () => {
 return (
-    <main>
+    <main style={{marginTop:100}}>
         <h1>
             hola mundo!
         </h1>
